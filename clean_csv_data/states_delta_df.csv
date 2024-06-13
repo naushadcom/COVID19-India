@@ -1,0 +1,37 @@
+state,state_short,state_delta_confirmed,state_delta_recovered,state_delta_deceased,state_delta_tested,state_delta_vaccinated_1,state_delta_vaccinated_2
+Andaman and Nicobar Islands,AN,0,0,0,1376,3,13
+Andhra Pradesh,AP,385,675,4,39848,20497,24137
+Arunachal Pradesh,AR,1,9,0,334,42,195
+Assam,AS,212,236,1,15060,19124,37463
+Bihar,BR,8,9,0,226443,114694,145827
+Chandigarh,CH,5,3,0,1403,211,1282
+Chhattisgarh,CT,32,32,1,11869,21312,39393
+Delhi,DL,45,46,0,56751,12482,11839
+Dadra and Nagar Haveli and Daman and Diu,DN,0,1,0,0,3,20
+Goa,GA,23,53,0,2361,2572,12404
+Gujarat,GJ,20,23,0,34282,14685,62096
+Himachal Pradesh,HP,85,198,1,3613,371,8192
+Haryana,HR,11,10,0,20588,7867,15801
+Jharkhand,JH,10,8,0,31238,41034,51488
+Jammu and Kashmir,JK,95,79,0,38915,1584,45202
+Karnataka,KA,292,345,11,106939,17604,28163
+Kerala,KL,7167,6439,167,65158,2010,11914
+Ladakh,LA,11,9,0,388,0,2
+Lakshadweep,LD,0,0,0,31,0,4
+Maharashtra,MH,1172,1399,20,108040,53161,31988
+Meghalaya,ML,22,51,1,1559,38,203
+Manipur,MN,63,62,1,1689,705,4283
+Madhya Pradesh,MP,16,8,0,55368,5713,77062
+Mizoram,MZ,579,610,2,5945,10,51
+Nagaland,NL,11,21,1,468,193,822
+Odisha,OR,488,450,4,69675,21420,25651
+Punjab,PB,26,25,1,34152,3321,4418
+Puducherry,PY,38,45,0,2662,171,532
+Rajasthan,RJ,2,2,0,13454,9399,29672
+Sikkim,SK,21,8,1,389,0,0
+Telangana,TG,121,183,1,25021,38781,26738
+Tamil Nadu,TN,1009,1183,19,123701,77325,106584
+Tripura,TR,12,2,0,3501,3,650
+Uttar Pradesh,UP,6,6,0,161458,53401,57556
+Uttarakhand,UT,5,9,0,9524,1065,12934
+West Bengal,WB,914,913,15,47417,209609,58881
