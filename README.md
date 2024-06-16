@@ -45,23 +45,31 @@ Description: Includes scripts and notebooks focused on the exploratory data anal
 
 <h2>Dashboard Image and KPI</h2>
 
+
+
 <h3>Excel Dashboard</h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/dashboard.jpg">
+
 
 <h3>Month wise total cases confirmed</h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/graph-1.png">
 
+
 <h3>Total death across testing ratio categories</h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/graph-2.png">
+
 
 <h3>Vaccination data by state</h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/graph-3.png">
 
+
 <h3>Population and vaccination by state/ut</h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/graph-4.png">
 
+
 <h3>Population, ratio, and vaccination by state/ut </h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/graph-5.png">
+
 
 <h3>Deceased ratio in state and ut</h3>
 <h4>The Deceased Ratio is maximum in Punjab and minimum in Dadra & Nagar Haveli.</h4>
