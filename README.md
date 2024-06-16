@@ -13,3 +13,10 @@ Data cleaning and preprocessing steps.
 Exploratory Data Analysis (EDA) to understand the distribution and trends in the data.
 Data visualization using libraries such as Matplotlib and Seaborn.
 Statistical modelling and hypothesis testing to identify significant patterns and relationships.
+
+<h2>PowerPoint Presentation</h2>
+Filename: COVID-19_Presentation.pptx </br>
+Description: This PowerPoint presentation summarizes the findings and insights from the data analysis. It includes:
+Key metrics and statistics related to COVID-19 cases, deaths, and recoveries.
+Visualizations and charts to illustrate trends and patterns.
+Conclusions and recommendations based on the analysis.
