@@ -44,7 +44,7 @@ Description: Includes scripts and notebooks focused on the exploratory data anal
 <h2>Dashboard Image and KPI</h2>
 
 <h3>Landing Page</h3>
-<img src="https://github.com/naushadcom/Anthropologie-Clone/blob/main/Screeshots/LandingPage.png">
+<img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/dashboard.jpg">
 
 <h2>Getting Started</h2>
 To start the project, clone the repository and explore the various files and resources. The Jupyter Notebook is a good starting point for understanding the data analysis process, and the PowerPoint presentation provides a high-level overview of the findings.
