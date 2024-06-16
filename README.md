@@ -41,9 +41,11 @@ Description: Excel files are used to create interactive dashboards to visualize 
 Directory: EDA</br>
 Description: Includes scripts and notebooks focused on the exploratory data analysis phase of the project.
 
+
+
 <h2>Dashboard Image and KPI</h2>
 
-<h3>Landing Page</h3>
+<h3>Excel Dashboard</h3>
 <img src="https://github.com/naushadcom/COVID19-India/blob/main/Screenshot/dashboard.jpg">
 
 <h2>Getting Started</h2>
