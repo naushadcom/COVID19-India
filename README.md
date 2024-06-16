@@ -15,7 +15,7 @@ Exploratory Data Analysis (EDA) to understand the distribution and trends in the
 Data visualization using libraries such as Matplotlib and Seaborn.
 Statistical modelling and hypothesis testing to identify significant patterns and relationships.
 
-<h3>Data cleaning and preprocessing steps.</h3>
+<h2>Data cleaning and preprocessing steps.</h2>
 Exploratory Data Analysis (EDA) to understand the distribution and trends in the data.
 Data visualization using libraries such as Matplotlib and Seaborn.
 Statistical modelling and hypothesis testing to identify significant patterns and relationships.
@@ -41,7 +41,7 @@ Description: Excel files are used to create interactive dashboards to visualize 
 Directory: EDA</br>
 Description: Includes scripts and notebooks focused on the exploratory data analysis phase of the project.
 
-<h3>Getting Started</h3>
+<h2>Getting Started</h2>
 To start the project, clone the repository and explore the various files and resources. The Jupyter Notebook is a good starting point for understanding the data analysis process, and the PowerPoint presentation provides a high-level overview of the findings.
 
 git clone https://github.com/naushadcom/COVID19-India.git
