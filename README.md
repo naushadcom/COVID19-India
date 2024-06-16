@@ -7,7 +7,7 @@ The COVID-19 pandemic has profoundly impacted global health, economies, and dail
 
 <h2>Files in the Repository</h2>
 <h3>1. Jupyter Notebook</h3>
-Filename: Covid-19.ipynb
+Filename: Covid-19.ipynb </br>
 Description: This Jupyter Notebook contains Python code for the data analysis and visualization of COVID-19 data. It includes:
 Data cleaning and preprocessing steps.
 Exploratory Data Analysis (EDA) to understand the distribution and trends in the data.
